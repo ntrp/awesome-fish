@@ -42,6 +42,7 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
 - [jorgebucaran/**fish-getopts**](https://github.com/jorgebucaran/fish-getopts) - CLI options parser alternative to the [`argparse`](https://fishshell.com/docs/current/commands.html#argparse) builtin
 - [jorgebucaran/**fish-spark**](https://github.com/jorgebucaran/fish-spark) - Pure-fish sparkline generator
 - [rodrigobdz/**fish-apple-touchbar**](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your Touch Bar in iTerm2
+- [matusf/**goto**](https://github.com/matusf/goto) - Create dir aliases and navigate to them
 
 ### Environment
 
